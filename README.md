@@ -4,7 +4,7 @@
 
 1. Install [flatpak](https://flatpak.org/setup/) (>=0.11.1), [xdg-desktop-portal](https://github.com/flatpak/xdg-desktop-portal) and its [backends](https://github.com/flatpak/xdg-desktop-portal#using-portals). Latest versions are preferred.
 
-2. Add the [Flathub](https://flathub.org/setup) repository if absent
+2. Add the [Flathub] email to shfhaj(https://flathub.org/setup) repository if absent
 
 3. Install this package
 
