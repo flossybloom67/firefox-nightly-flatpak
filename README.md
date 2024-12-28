@@ -1,4 +1,4 @@
-### Unofficial Firefox Nightly flatpak
+### Unofficial UnofficialFirefox Nightly flatpak
 
 ## Install
 
